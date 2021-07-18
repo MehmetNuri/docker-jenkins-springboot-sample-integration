@@ -15,4 +15,4 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 3- Enter root password
 
 
-![Build Status](https://github.com/MehmetNuri/docker-jenkins-springboot-sample-integration/blob/master/screenshot.png?raw=true)
+![Build Status](https://raw.githubusercontent.com/MehmetNuri/docker-jenkins-springboot-sample-integration/main/screenshot.png?raw=true)
